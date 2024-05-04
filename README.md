@@ -1,1 +1,1 @@
-# Send-a-discord-msg-via-webhook
+2 ways to send a dicord message via webhook
